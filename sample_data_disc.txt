@@ -1,0 +1,15 @@
+40-50000,Yes,No,No,No,Male,A
+30-40000,Yes,Yes,Yes,No,Female,A
+40-50000,No,No,No,No,Male,A
+30-40000,Yes,Yes,Yes,Yes,Male,A
+50-60000,Yes,No,Yes,No,Female,A
+20-30000,No,No,No,No,Female,A
+30-40000,Yes,No,Yes,Yes,Male,E
+20-30000,No,Yes,No,No,Male,E
+30-40000,Yes,No,No,No,Male,A
+30-40000,Yes,Yes,Yes,No,Female,A
+40-50000,No,Yes,Yes,No,Female,A
+20-30000,No,Yes,Yes,No,Male,E
+50-60000,Yes,Yes,Yes,No,Female,A
+40-50000,No,Yes,No,No,Male,A
+20-30000,No,No,Yes,Yes,Female,T
